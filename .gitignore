@@ -1,0 +1,4 @@
+badram.so
+badram.efi
+*.o
+.vscode
