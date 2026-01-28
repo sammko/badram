@@ -1,4 +1,2 @@
-badram.so
-badram.efi
-*.o
-.vscode
+zig-out/
+.zig-cache/
